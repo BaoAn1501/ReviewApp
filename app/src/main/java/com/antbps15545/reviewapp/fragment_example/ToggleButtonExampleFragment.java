@@ -54,8 +54,8 @@ public class ToggleButtonExampleFragment extends Fragment {
                         }
                     }
                 };
-
         toggleButton1.setOnCheckedChangeListener(listener);
         toggleButton2.setOnCheckedChangeListener(listener);
     }
 }
+
