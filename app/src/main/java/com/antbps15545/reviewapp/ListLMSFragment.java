@@ -72,22 +72,22 @@ public class ListLMSFragment extends Fragment {
 
     private void addList(){
         list.add(new Source("TextView","https://vietjack.com/android/textview_trong_android.jsp","https://developer.android.com/reference/android/widget/TextView"));
-        list.add(new Source("EditText","",""));
+        list.add(new Source("EditText","https://openplanning.net/12657/android-edittext","https://developer.android.com/reference/android/widget/EditText"));
         list.add(new Source("TextInputEditText","https://openplanning.net/12691/android-textinputlayout","https://developer.android.com/reference/com/google/android/material/textfield/TextInputLayout"));
         list.add(new Source("Button","https://xuanthulab.net/button-trong-android.html","https://developer.android.com/reference/android/widget/Button"));
         list.add(new Source("ImageView","https://xuanthulab.net/imageview-va-imagebutton-trong-android.html","https://developer.android.com/reference/android/widget/ImageView"));
         list.add(new Source("CircleImageView","https://viblo.asia/p/tao-mot-circle-imageview-android-voi-thu-vien-hdodenhof-bWrZnLRY5xw","https://github.com/hdodenhof/CircleImageView"));
         list.add(new Source("DatePicker","https://openplanning.net/12619/android-datepicker","https://developer.android.com/reference/android/widget/DatePicker"));
-        list.add(new Source("CheckBox","",""));
+        list.add(new Source("CheckBox","https://openplanning.net/12663/android-checkbox","https://developer.android.com/guide/topics/ui/controls/checkbox"));
         list.add(new Source("ProgressBar","https://openplanning.net/12745/android-progressbar","https://developer.android.com/reference/android/widget/ProgressBar"));
-        list.add(new Source("Spinner","",""));
-        list.add(new Source("RadioButton","",""));
+        list.add(new Source("Spinner","https://openplanning.net/12617/android-spinner","https://developer.android.com/guide/topics/ui/controls/spinner"));
+        list.add(new Source("RadioButton","https://openplanning.net/10505/android-radiobutton","https://developer.android.com/guide/topics/ui/controls/radiobutton"));
         list.add(new Source("ToggleButton","https://xuanthulab.net/togglebutton-trong-lap-trinh-android.html","https://developer.android.com/guide/topics/ui/controls/togglebutton#:~:text=A%20toggle%20button%20allows%20the,add%20with%20a%20Switch%20object."));
         list.add(new Source("AutoCompleteTextView","https://xuanthulab.net/radiobutton-va-radiogroup-trong-lap-trinh-android.html","https://developer.android.com/guide/topics/ui/controls/radiobutton"));
-        list.add(new Source("Bottom Navigation","",""));
+        list.add(new Source("BottomNavigation","https://viblo.asia/p/lam-viec-voi-bottom-navigation-trong-android-gGJ59j6pKX2","https://developer.android.com/reference/com/google/android/material/bottomnavigation/BottomNavigationView"));
         list.add(new Source("MeowBottomNavigation","https://github.com/oneHamidreza/MeowBottomNavigation","https://developer.android.com/reference/com/google/android/material/bottomnavigation/BottomNavigationView"));
         list.add(new Source("DrawerLayout","https://viblo.asia/p/cach-tao-navigation-drawer-ByEZk0NElQ0","https://developer.android.com/guide/navigation/navigation-ui?gclid=CjwKCAjwtIaVBhBkEiwAsr7-c7CTir6Ya5BwyRcv_NcBxihbxE8rBEMTxviE0LE058cwKxssDH6WuxoCN14QAvD_BwE&gclsrc=aw.ds"));
-        list.add(new Source("Switch","",""));
+        list.add(new Source("Switch","https://openplanning.net/12627/android-switch","https://developer.android.com/reference/android/widget/Switch"));
         list.add(new Source("CardView","https://openplanning.net/12701/android-cardview","https://developer.android.com/guide/topics/ui/layout/cardview"));
         list.add(new Source("SearchView","https://hiepsiit.com/detail/android/laptrinhandroid/searchview","https://developer.android.com/reference/android/widget/SearchView"));
         list.add(new Source("ListView","https://openplanning.net/10435/android-listview#a1302391","https://developer.android.com/reference/android/widget/ListView"));
@@ -97,10 +97,10 @@ public class ListLMSFragment extends Fragment {
         list.add(new Source("ContextMenu","https://openplanning.net/12615/android-contextmenu","https://developer.android.com/guide/topics/ui/menus"));
         list.add(new Source("PopupMenu","https://openplanning.net/12631/android-popupmenu","https://developer.android.com/reference/android/widget/PopupMenu"));
         list.add(new Source("AlertDialog","https://openplanning.net/12629/android-alertdialog","https://developer.android.com/reference/android/app/AlertDialog"));
-        list.add(new Source("ProgressDialog","",""));
-        list.add(new Source("SnackBar","",""));
+        list.add(new Source("ProgressDialog","https://openplanning.net/12735/android-dialog#:~:text=ProgressDialog%20l%C3%A0%20m%E1%BB%99t%20h%E1%BB%99p%20tho%E1%BA%A1i,d%E1%BB%A5ng%20ProgressBar%20thay%20v%C3%AC%20ProgressDialog.","https://developer.android.com/reference/android/app/ProgressDialog"));
+        list.add(new Source("SnackBar","https://openplanning.net/12707/android-snackbar","https://developer.android.com/reference/com/google/android/material/snackbar/Snackbar"));
         list.add(new Source("FloatingButtonAction","https://openplanning.net/12705/android-floatingactionbutton","https://developer.android.com/guide/topics/ui/floating-action-button"));
-        list.add(new Source("Toast","",""));
+        list.add(new Source("Toast","https://openplanning.net/12633/android-toast","https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=vi"));
         list.add(new Source("RatingBar","https://openplanning.net/12623/android-ratingbar5","https://developer.android.com/reference/android/widget/RatingBar"));
         list.add(new Source("WebView","https://viblo.asia/p/tim-hieu-ve-webview-trong-android-Ljy5VPqzZra","https://developer.android.com/reference/android/webkit/WebView"));
         list.add(new Source("TabLayout","https://viblo.asia/p/tao-material-design-tab-trong-ung-dung-android-XL6lAP6NZek","https://developer.android.com/reference/com/google/android/material/tabs/TabLayout"));
