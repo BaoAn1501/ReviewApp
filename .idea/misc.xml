@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="..\:/github save/ReviewApp/app/src/main/res/layout/fragment_popup_menu_example.xml" value="0.1911231884057971" />
+        <entry key="..\:/github save/ReviewApp/app/src/main/res/layout/fragment_radio_button_example.xml" value="0.1911231884057971" />
+        <entry key="..\:/github save/ReviewApp/app/src/main/res/layout/fragment_rating_bar_example.xml" value="0.1911231884057971" />
+        <entry key="..\:/github save/ReviewApp/app/src/main/res/layout/fragment_text_input_edit_text_example.xml" value="0.1911231884057971" />
+        <entry key="..\:/github save/ReviewApp/app/src/main/res/layout/fragment_textview_example_flagment.xml" value="0.17074275362318841" />
+        <entry key="..\:/github save/ReviewApp/app/src/main/res/menu/layout_popup_menu.xml" value="0.15234375" />
+        <entry key="app/src/main/res/layout/activity_list_view_ex.xml" value="0.21041666666666667" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.22447916666666667" />
+=======
         <entry key="..\:/GitHub/ReviewApp/app/src/main/res/layout/activity_main.xml" value="0.184375" />
         <entry key="..\:/GitHub/ReviewApp/app/src/main/res/layout/activity_start.xml" value="0.184375" />
         <entry key="..\:/GitHub/ReviewApp/app/src/main/res/layout/fragment_alert_dialog_example.xml" value="0.184375" />
@@ -35,6 +46,7 @@
         <entry key="..\:/GitHub/ReviewApp/app/src/main/res/menu/nav_header.xml" value="0.184375" />
         <entry key="..\:/GitHub/ReviewApp/app/src/main/res/menu/option_menu.xml" value="0.184375" />
         <entry key="..\:/GitHub/ReviewApp/app/src/main/res/menu/search_menu.xml" value="0.184375" />
+>>>>>>> fdcd5193c772e69dd6b2a51a274f847be7a1b518
         <entry key="app/src/main/res/layout/activity_start.xml" value="0.1702127659574468" />
         <entry key="app/src/main/res/layout/drawer_menu.xml" value="0.22447916666666667" />
         <entry key="app/src/main/res/layout/fragment_drawer_layout_example.xml" value="0.22447916666666667" />
